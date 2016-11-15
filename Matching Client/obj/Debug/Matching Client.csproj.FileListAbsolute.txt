@@ -1,0 +1,11 @@
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\Matching Client.exe.config
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\Matching Client.exe
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\Matching Client.pdb
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\log4net.dll
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\SuperSocket.ProtoBase.dll
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\log4net.xml
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\bin\Debug\SuperSocket.ProtoBase.xml
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\obj\Debug\Matching Client.csprojResolveAssemblyReference.cache
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\obj\Debug\Matching Client.exe
+C:\Users\mikm\Documents\Projects\04 Matching Client\Matching Client\Matching Client\obj\Debug\Matching Client.pdb
